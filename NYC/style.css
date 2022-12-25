@@ -1,0 +1,49 @@
+/* font-family: 'Kumar One', cursive; */
+/* font-family: 'Trade Winds', cursive; */
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
+}
+.container{
+    font-family: 'Metal Mania', cursive;
+    margin-left: 57%;
+    color: azure;
+    z-index: 99999999;
+}
+
+.countdown {
+  text-align: center;
+  margin-top: 14rem;
+  font-size: 3rem;
+}
+
+.countdown-container span{
+    font-size: 30px;
+    color: #cacaca;
+}
+
+.timer {
+  color: white;
+  font-family: 'Trade Winds', cursive;
+  font-family: 'Kumar One', cursive;
+  margin-left: 40%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+.time {
+  font-weight: bold;
+  padding: 1rem 2rem;
+  font-size: 3rem;
+  border: 2px dotted #c0f4f2;
+  border-radius: 1rem;
+  margin: 0 1rem;
+  backdrop-filter: blur(10px);
+}
