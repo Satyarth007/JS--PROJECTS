@@ -9,4 +9,6 @@ My javascript projects .
 4. NYC :- NEW YEAR COUNTDOWN 
 ![picture](https://raw.githubusercontent.com/Satyarth007/JS-PROJECTS/main/NYC/NYCSS.png)  
 5. Temperature Converter :-  
-![picture](https://raw.githubusercontent.com/Satyarth007/JS-PROJECTS/main/temperatureConverter/Screenshot%20(211).png)
+![picture](https://raw.githubusercontent.com/Satyarth007/JS-PROJECTS/main/temperatureConverter/Screenshot%20(211).png)  
+6. Word Counter :-  
+![picture](https://raw.githubusercontent.com/Satyarth007/JS-PROJECTS/main/WORD%20COUNTER/Screenshot%20(212).png)
